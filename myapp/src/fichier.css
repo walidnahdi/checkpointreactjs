@@ -1,0 +1,24 @@
+
+.me-auto {
+    background-color: #712cf9;
+    color: black;
+    
+}
+
+.cards {
+    display: block;
+    justify-content: space-between;
+    margin-inline: 5% 5%;
+    writing-mode: horizontal-tb;
+    padding: 240px;
+
+}
+
+
+
+
+
+
+
+
+
